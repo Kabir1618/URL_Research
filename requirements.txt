@@ -1,0 +1,15 @@
+langchain
+python-dotenv
+streamlit
+unstructured
+tiktoken
+libmagic
+python-magic
+python-magic-bin
+OpenAI 
+pandas
+numpy
+scipy
+pinecone-client
+scikit-learn
+matplotlib
